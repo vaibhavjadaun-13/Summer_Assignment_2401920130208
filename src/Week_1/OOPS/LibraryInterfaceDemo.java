@@ -1,5 +1,5 @@
+// main class to test the LibraryInterface implementation
 public class LibraryInterfaceDemo {
-
     public static void main(String[] args) {
 
         System.out.println("===== Test Case 1 : KidUser =====");
